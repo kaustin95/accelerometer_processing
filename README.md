@@ -1,6 +1,6 @@
 # Biteplate/Mouth-based Inertial Measurement Unit for Head Impact Kinematics Measurement
 
-This MATLAB script processes raw accelerometer and gyroscope signals to estimate head impact kinematics. The processing is divided into four main sections: Data Import, Filtering, Deriving and Filtering Rotational Acceleration, and Transformation of Linear Acceleration to the Head Center of Mass. 
+These scripts processes raw accelerometer and gyroscope signals to estimate head impact kinematics. Scripts are provided in both MATLAB and JupyterNotebook formats. The processing is divided into four main sections: Data Import, Filtering, Deriving and Filtering Rotational Acceleration, and Transformation of Linear Acceleration to the Head Center of Mass. 
 
 ## Overview
 This script processes head impact kinematics data from a biteplate or mouth-based inertial measurement unit. It performs the following steps:
